@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border:solid black;
+    margin: 0.5em;
+}
+
+#food{
+    display: flex;
+    flex-direction:row;
+}
